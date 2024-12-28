@@ -1,7 +1,1 @@
-# Atharva
-<br>
-this is my first repo 
-<br> 
-how are you working
-<br>
-hyi jjmo
+Here are some of my scratchs projects
